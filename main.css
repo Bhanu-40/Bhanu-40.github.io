@@ -1,0 +1,14 @@
+#particles {
+    opacity: 1;
+    background: -webkit-linear-gradient(to right, #ff3232, #f19b38);
+    background: rgb(245,15,15);
+    background: linear-gradient(153deg, rgba(245,15,15,1) 0%, rgba(255,141,0,1) 43%); 
+
+    display: flex;
+    vertical-align: bottom;
+    width: 100%;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed
+}
